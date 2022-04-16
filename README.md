@@ -2,6 +2,8 @@
 
 This cluster will deployed in single zone
 
+Need to do following stpes before setup Environment
+
 - Enable Compute engine Api and Kubernetes Engine Api in GCP console
 
 - Create service account and download key
