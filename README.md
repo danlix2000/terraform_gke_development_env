@@ -2,10 +2,11 @@
 
 This cluster will deployed in single zone
 
+- Enable Compute engine Api and Kubernetes Engine Api in GCP console
 
-Create service account and download key
+- Create service account and download key
 
-configure key file.
+- Configure key file
 
 (This project executed in MS Windows environment and mapped service account key in file)
 
