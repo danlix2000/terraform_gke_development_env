@@ -1,5 +1,8 @@
 #  Provision a Testing/Dev GKE Cluster environment using Terraform (Terraform on MS Windows)
 
+This cluster will deployed in single zone
+
+
 Create service account and download key
 
 configure key file.
