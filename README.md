@@ -12,7 +12,7 @@ point key file in `main.tf`
 credentials = file("../credentials/secret.json")
 ```
 
-update `terraform.tfvars` with relavant values
+update `terraform.tfvars` with relevant values
 
 **Run below commands to env setup**
 ```
